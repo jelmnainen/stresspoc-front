@@ -1,0 +1,14 @@
+.spinner {
+  width: 50px;
+  margin: 3em auto;
+}
+
+.alert-float {
+  position: fixed;
+  top: 1em;
+  z-index: 1;
+  text-align: center;
+  left: 0;
+  right: 0;
+  margin: 0 5em;
+}

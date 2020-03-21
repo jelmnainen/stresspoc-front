@@ -1,0 +1,10 @@
+#answer-page {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .thin-textarea {
+    width: 65%;
+    margin: 0 auto;
+  }
+}
